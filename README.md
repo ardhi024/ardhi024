@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hallo semua 👋<br>
 
+Perkenalkan saya **I Gede Ardhiyana Permana**<br>
+Saya seorang mahasiswa di universitas Udayana<br>
+Dengan Program Studi Teknologi Informasi
 <!--
 **ardhi024/ardhi024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
