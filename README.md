@@ -3,6 +3,13 @@
 Perkenalkan saya **I Gede Ardhiyana Permana**<br>
 Saya seorang mahasiswa di universitas Udayana<br>
 Dengan Program Studi Teknologi Informasi
+
+<p align="left">
+<a href="https://github.com/ardhi024">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ardhi024&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ardhi024&layout=compact&theme=algolia"/>
+</a>
+</p>
 <!--
 **ardhi024/ardhi024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
